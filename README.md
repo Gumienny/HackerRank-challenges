@@ -1,2 +1,2 @@
-# HackerRank-challenges
+# HackerRank
 Algorithms, Data Structures, Mathematics
